@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Valdez",
+  "age": 21,
+  "address": {
+    "street": "Nuru Pike",
+    "city": "Wipucit",
+    "state": "HI",
+    "zip": "83442"
+  },
+  "contact": {
+    "phone": "(633) 288-1017",
+    "servicePhone": "800917544"
+  },
+  "birthday": "1977-12-23T10:34:59.752Z",
+  "ip": "224.1.152.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ul ge bacur gopdatve wor uha azjar sug ge kuc ugweewu id ub pic si isa duaveaji. Wipa vim ise tajuzi lees po ugusasor ug etto pawiwe et sijnob hejas. Sen ujvad sukwef nos gugegta gova adi laugeari le civumez petfu non feplipte hi ezwizule beh pu.",
+    "bio": "Kawme iskiw rudig eckira cari puna fuvgekib gepdiwpa nuteipo fu iwode gi hasaw uwlumev. Olifuma zoudejas sa ukuvuh beazhu jodhug puztectiw mesouca fecfis ar paijiwon ovihagju. Idefohzup rucbocag fizfuv zuhrojtoc taigbuh mejta had etuga nor jeztintuw muukuru wefgik ipujuku amuelo lowku rihihri adwu suvemu."
+  },
+  "apiKey": "bcfe38238f5840ccba172ad5717efdd77de7db8d9b137207ac77aed23dd2ee95",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
