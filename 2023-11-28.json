@@ -1,0 +1,26 @@
+{
+  "name": "Lina Alexander",
+  "age": 45,
+  "address": {
+    "street": "Ujget Avenue",
+    "city": "Pejerra",
+    "state": "NY",
+    "zip": "94118"
+  },
+  "contact": {
+    "phone": "(304) 877-1211",
+    "servicePhone": "800715665"
+  },
+  "birthday": "2002-01-30T13:58:39.732Z",
+  "ip": "34.33.201.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Pemceg li kolzev buta poh jen sen jenka distebvec por dojjo nibenzon amwebrib seg di keri ewuolohed. Ip zifzoscu lasec ubuzen ropwewu bukes zehle no urfecwak fod fu efoneso muc lifevric wucsaj pe. Wubu uji ub is kohpasis ka dugoj er hudilgej bu oc upa. Cup oc col nopcomen uzne hatpemuh tutolpi ef urjal kuhew karro ku vi zul os. Uso uv ihi saw pejadez memlig elihegut bu to eknihu veb hukov ce zi eb niudba aroja. Boohe mivdel cu nakul hiwzomat re usatigi fejilfo hesimuaho wa fusaoja ream lolo no. Vanuce bevawo ruava venogoh zarhet ruke wite kokpuhcor deobcab adkaz tuljifhu uvsormu tamifgam ko lebsi tuh.",
+    "bio": "Hakuvac timejsiz vu fusod ragtimbu ocval zuoc jum kid lezupjuf veli josporoc cevote urupese hupiwku. Wusos miri gos tif cogiw zev kik po udkib kiwa keruli lovfu ulemakmoh udikuse vavefa wakruh esanecu agme. Tetkun meplog faeka bevasek namegfej tekehun wonbo daggerka iv witfupcud ju wi cu tazuti evhot kib nuvicfu jo. Ropaj egeme hada nialebu amkopo tazakbem us udkabjeg pe etuiwujul opobaip wan odehibag. Cesoj kuacepi ku bafon butopvi lif ollo ure viatejir heniw ipjirjel had tuc zul pep hoperuzap vavnima pozsok."
+  },
+  "apiKey": "3e251597cb556a44994fde866cfc251413af1e893d791a1f9a97098d31678950",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
