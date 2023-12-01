@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Olson",
+  "age": 21,
+  "address": {
+    "street": "Darge Square",
+    "city": "Iccode",
+    "state": "MD",
+    "zip": "42136"
+  },
+  "contact": {
+    "phone": "(259) 955-8895",
+    "servicePhone": "800265636"
+  },
+  "birthday": "1993-09-26T11:28:49.699Z",
+  "ip": "172.152.90.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Lato telni lova izahitfup et tentul eb jowife sapfi necumerep ohiozi jejdu ansiado lolo oj virtulhup koffe sozzatof. Viteak azijub zuhparhov lebju kav huvsuruw up jeho laddoh aljamen iz jehi fuj rabal fef. Nukta ful fewziko fah lopet wi adoece wi pujzehaz gesemum upaeg hu. Zif gilfa guv didliwfa bija pa tivi ukagov dikemhuh lel tuf ecefzij takcen sig zub. Pu huze koduv ikbo vij hi wagdecpet mupehop ruaberi da leg muidpo ri epfir hu couze upaatoga. Ka fat wep zavez tiel timejiz upu lib uzro vodhi foksucvo durbenoz lofena. Numa jekufac wivukbag fomisa miz ha wolorkik elico rozdoblug urem vonite geedme loca.",
+    "bio": "Rop vij peg javojad naf jariddu vuson di pez alo ku cuzorres zet deolo wahroce ba. Tegri wubfimohu bode fik beshiag luh no id ilola zabdu dadewum fiwjaw lahjofe imaka meulkon harhiwe kuhispuk kemneeza. Pekecaude jesdo nozi zac cirnib celo zisuzupo lipuho jedkicde fonfoin abawukak funoati ife. Wu fanibeh jo googwem ze dudku sur gudkap omafo niesrap ruc subi rutopwuf kooku ufu."
+  },
+  "apiKey": "6fd9d249c83f1a694b5f625a563e3bca82e54faf60bd7d1f2593532f49aa5b31",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
