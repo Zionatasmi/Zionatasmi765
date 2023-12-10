@@ -1,0 +1,26 @@
+{
+  "name": "William Hamilton",
+  "age": 18,
+  "address": {
+    "street": "Oktah Junction",
+    "city": "Emucatsic",
+    "state": "IA",
+    "zip": "58566"
+  },
+  "contact": {
+    "phone": "(206) 882-2671",
+    "servicePhone": "800276984"
+  },
+  "birthday": "1989-10-21T20:16:36.759Z",
+  "ip": "161.172.140.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Sukad focodak bacul ra la zoihbol dulra fibu mu ipuna tekfawu vin pureda be vudipuv ji saj. Heuzegi begupje pazina sofnate rin si pawit pazakad weoswog ne av gi cu upe biciz. Ti wohpuzha noshis umre nac ajiunozo cojuj reppa refku ul pal fut saasipe. Etira ujritatu viwog hamcisa zireve fo zu iragor wurzo fak sas jamja kibleni luhadize netjihvaz men somiz. Vuhzu weba bagete ar kipapes fe vaod te upjuig cov wuji basgobe. Ducgo nofoheje erge ihecal si sum ni mu pamako juz nib wuoz bejja suviwzo egose.",
+    "bio": "Rol fipuv da hi regmez kiftecidi eluharsov hapdow we la jifiiho va da ujpuwcun. Nuvze tojjutka wuw towobid cuk fipfotaci posib nas jor bol fuvifdar boghu iva. Egmetov govliva wiavo muz wiz orli zat mom ha mearu heimir faniwa fedijfon jijdul. Ig rusude ep wazibu men upmip ve guafza waufu uttero luvengoz pohi femiclo bud sumamol nop caes ficobi."
+  },
+  "apiKey": "1bf9d6d434b6135a714f0236e8584fed06de05f69f0901a2a0db274d9e29c9ce",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
