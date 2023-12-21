@@ -1,0 +1,26 @@
+{
+  "name": "Milton Pope",
+  "age": 29,
+  "address": {
+    "street": "Jamo Boulevard",
+    "city": "Gaplacfe",
+    "state": "MN",
+    "zip": "45681"
+  },
+  "contact": {
+    "phone": "(364) 412-9481",
+    "servicePhone": "800565861"
+  },
+  "birthday": "1983-01-30T10:29:30.411Z",
+  "ip": "179.112.223.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuhcako gus sanpoota avkaicu ticmok oravavwa mi ka sidu gevrer suik febfo cewi va bid mifecaimo. Upoma lo pamajo ewhicgi sazom wada kuz mabjele vu obi ujuelaam dim udgohhig da lewuwpan. Zettaluv was vauzogi seki worbataw ben ine jal ped egapugan fa ujeho gon uh zar tijeb. Sakana mukik daponbo kattik tulehuka azuos tut fopuima iginurrum dunfeg sunhenug sajkif. Bapo wup ebufusci awucewhor mepdu desdegweh vo cuzurjak iw hefobvif jouku re menlid eniba potunij gulabga liewna.",
+    "bio": "Eji ackusne ge ja iwgiv niwsiriw fu cowbiwjup karfo so virbi ru netvuznec viladep iluraf ji nof aso. Dutkelto kuifudev lo no rerzu big mekbame divi zojfukur zon ula dalza pulmeg tejpejam. Wut muhu abeonu led nu culbahwij puctizboz udanosa ogibe oczeg kekginkid lewbil gegmo wiswerot rohpif fup buwilifi. Biufji oceosse acejew escoko geba odhifad jik ni nefolam icaraz kural zu zuh fa towniduk dirifno kac."
+  },
+  "apiKey": "9b7e00e93bc50852ac42a5d0cc048e1370dee74c9f36c64989f0560d51829d5e",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
