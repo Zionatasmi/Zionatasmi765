@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Schneider",
+  "age": 30,
+  "address": {
+    "street": "Fazi Point",
+    "city": "Tugoho",
+    "state": "NJ",
+    "zip": "56981"
+  },
+  "contact": {
+    "phone": "(230) 210-6375",
+    "servicePhone": "800721358"
+  },
+  "birthday": "1990-09-18T03:51:21.581Z",
+  "ip": "19.59.252.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne jan fokiko kewze icurob sesurvu coto et dalif juh wufahel osidosep fezin hupka. Hag lid judonew hop puh wivdid kiv gali zula ajo vid burhik wu ta come pon rajuknon ajorujob. Gocebge ti lelfivu cokimbev wa micip asaig revib afde inhopew gukhusa limajobe wacev omik giigu vofbet pe avi. Uv vujofmo vipdig tihi suk wo fawed sesawta lo besuklul feg ka sef zudo.",
+    "bio": "Hohludoc bovi do zujekrem woijvaj dahziobo ceulu eckadbun jojar gicje awoh bele lihac tibpo zove rawe. Kevouk pajsicaf ez ve go ma wi rowidof merbozab zerpe efa dadu cod iznew putezah raak. Idube awoj emeahi niibuto fuje zup borahiro ninkuuz wokbopiw podrawik wa pozbof dozdaw cibgabag os min. Nibej vo ca hi dezu folcojwe ikpe zuwve gon vorwo otohevol nivac. Afehe jekru esti sovin jolgimru cuhi hakiroh gunol fivzoup mibnig ok rihu zove otlu rovunhe vizof gu he. Vuvtil sej bowizo bika jun mupul wotodkav rited uri tafpiapi riz latmehuze bav."
+  },
+  "apiKey": "f9d5df6c2ef0b2086b7bff567b56c4013e4dfd27747b4923acfd0867fed68923",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
