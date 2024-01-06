@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Valdez",
+  "age": 37,
+  "address": {
+    "street": "Owju Avenue",
+    "city": "Otvoki",
+    "state": "CO",
+    "zip": "25369"
+  },
+  "contact": {
+    "phone": "(260) 879-4878",
+    "servicePhone": "800798265"
+  },
+  "birthday": "1978-02-11T15:25:26.737Z",
+  "ip": "144.221.234.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajga vifapem jiom risbi wohnapu jab ocujeveh ajhewrek towudu ziculu va pevu. Wa megifike fafapsav evobil jatemowob refotzif so lejig zim ugibipi vufawlo ko cituje wi. Vac mol enlezu sifgepe ejaaju camovwo uj rege fadiro rorvok rar bendudkom tetom mifaz.",
+    "bio": "Jesut dawcoibo rula damide sa epi wikde edpes paekas lof muluwoh bawav wem haeke rituwi tupuzgat. Lazbu ja siwce jij foaw iw adwovo tuf bizaj lujbi kiati jo kipaz moglifgaz finkib. Riacueja ma akisuri koibu guja owdu zafgir ti ovwow guwozmir rorjacce ceg suz rudu ca. Pehdofol fe jazrohret mailgi su jitza teg eh napru himu owihaj tesile lumamiso ba lizu afana fildoale. Fe mewifeg vu cal sotzo womupeb dawu vosdafu agza ovvez zapdo hat."
+  },
+  "apiKey": "e8bb42294b0987880e7c70bb9964459fa26cc686314c4c2e2724580a6306b686",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
