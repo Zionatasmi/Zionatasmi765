@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Todd",
+  "age": 49,
+  "address": {
+    "street": "Kulke Path",
+    "city": "Muvewdu",
+    "state": "CO",
+    "zip": "31638"
+  },
+  "contact": {
+    "phone": "(265) 258-7367",
+    "servicePhone": "800612556"
+  },
+  "birthday": "1962-05-25T05:42:12.850Z",
+  "ip": "48.154.102.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Herru wozo omcego ab ogliga ka kiensog enimaw wuffodha pil wut gep wa tiub bozruh jieruviw aluowhu. Fomkot wi vikefek zo kihe ror tiecvo devozuz ib loba egu jozhe ase waregwo. La nebtefe zadimba noaw cunbekwo ti firla eksim rusupi kogucug ahu ga.",
+    "bio": "Ka awagag ek pe kehzi kitni odormov torkut vedzu zoj rec deavpe ujajog vihaej ne. Jithi osi pedup wodbevo mi daen mej vof isacuno evno pofbo uhoguniw ozafoifu gahlujif. Bu muhi lepu fijihpuw ni ba vommaslam bo pez as maltu esalu jiv."
+  },
+  "apiKey": "131cb162d60f966d46eac095c6d271b7d38ff697058f9d2f607ea0305fe48ceb",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
