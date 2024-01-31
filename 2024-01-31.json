@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert White",
+  "age": 20,
+  "address": {
+    "street": "Jucon Boulevard",
+    "city": "Caliod",
+    "state": "FL",
+    "zip": "26341"
+  },
+  "contact": {
+    "phone": "(646) 973-3647",
+    "servicePhone": "800467661"
+  },
+  "birthday": "2002-07-03T06:03:00.031Z",
+  "ip": "5.93.172.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Rifes av viba ibomuza nagezhom la bum ekgikwe cowite fagikron sew tin pob kobdunwas iwutita bizfan vi. Maofetas hiose ra zaoma feucefo wagcoc bavbo kegize bop fukzajuc nidulil di vulpaj bip zilor. Hikkoj ibijono am pelieg acijcib na eji ahov humit vaamisen kibul boruf bizerruf. Wuz rascufo vepgabgoj cigove fosidu jig uhajo sudihuni jihhir hano goso ek.",
+    "bio": "To purlef gelufhu bugpafbu vagazezi ugvured zibrimzo tubu ci padumhaw fub lov. Jobve bevwo gazsihu upniul bowe abi idakig mi muuvnip jepelotit wi vena ceikvu ukneffaz zabsam. Epsizo aw poofotej dofmopa wo esrah jas go pibriz mo mekcafem rewsije binuz lulih."
+  },
+  "apiKey": "e36411f18d0aaacd4341d908e6fbbb0627364ade537272b7b5f304e672b94fa3",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
