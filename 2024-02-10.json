@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Clarke",
+  "age": 28,
+  "address": {
+    "street": "Gihli Avenue",
+    "city": "Melipu",
+    "state": "GA",
+    "zip": "01903"
+  },
+  "contact": {
+    "phone": "(751) 578-5775",
+    "servicePhone": "800766124"
+  },
+  "birthday": "1969-02-08T02:32:53.550Z",
+  "ip": "178.64.239.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Faat fam az ojkamu memehe koweod gidhicom rodazisas ahu odezudi ahpaj ma rofoswo. Fagko num ela reaci onuij dumemmu tibmuton lecikas nilar pum ubacizji zoufrop. Laefjep udaagbas ku gohin solraspec jigael cojma koc gam lip afsu kupeg mo zapnaga cazfehcog alar gabapo. Gev gaej karesuz dog hat vam jefzew patzadseb wiuza leluw mid web komi joro gakucjaw.",
+    "bio": "Om remop hi wi tac mi etfiur ewcac bolhaw vibi rowiha vuogado dilalib al pew ja. Uguzewa hecludhet huafoko ba pul ikurenri wif keplicba giab es ecret ka ninlezke eljomhi hiig ig uteepro. Aviiwrog riszi zotogju pupev pacelu vemag ehivi go kozucha ec com gem kolosaw pazmeezu. Cirpur ofi coge mo tosafediv gacav mi bon wukosa lasazo fiicu juckucfe re rocacfag iramegop akorizeva. Utete as magamo ow bi ik jozreej boupijoj zofet mu fagno banutib. Aw evutakbe ima rorebilu pavib lid sonuw maktad usniwan ofumovu ud peka rawgouc dom he jifuw."
+  },
+  "apiKey": "05eba2e91a444533cbd7ac90c42ee61739d7320b38ec9b2f0a4654ece474db3d",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
