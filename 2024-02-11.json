@@ -1,0 +1,26 @@
+{
+  "name": "Dean Castillo",
+  "age": 34,
+  "address": {
+    "street": "Pihda Drive",
+    "city": "Wahetci",
+    "state": "NM",
+    "zip": "60314"
+  },
+  "contact": {
+    "phone": "(422) 778-5985",
+    "servicePhone": "800495554"
+  },
+  "birthday": "2006-09-07T10:32:31.198Z",
+  "ip": "120.161.118.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Rerko komon moh mubvadit loucuro beiwaj virimon ha mesacoje bajum aburivhaj ugi vuokago puduniw notuji. Umzi awowwom cup te hufiafi go cogob guapenup ovidizwa nitotvor gidu ragsup. Ombe daru focowezi kela dat sugu naevsav ujele ko re he catgufoca.",
+    "bio": "Niro hiragpe rewujer kij ce rumobi hele nutwaz zes va sew gu amocejcuw ore. Ihji cosoluc bu hafzi ajumine vovwuf kigoghep muodonon zawebimo tawlom gavijkup mu mot vehjofu ib moce. Jesefiipi up afabugpe jucwikomo cupec bi wobuf ceitru tem hu sutce paepazor boto mendo. Mov mu jejgu kopen vokun revicgas iluiwez maze amowephe wewuc ih bigume. Fazva igtabku celocor de waja ruhuji rinul onjow juprorca cu kitip didnivge dopowutu orehi luvhiga wipju. Ek lar ditraf kabame wurooge wu tat reosiicu uzojiti worjot be ju. Vitate ri junaav owdajil sotmimas kitmendu ozezivdoj riuja unafize golew ul set rapvitdot kac fiofe matnotev gofsi."
+  },
+  "apiKey": "ad6e6c50f14f8d5dc37bb5803442227d672515f8ad8eaf927a40a46b42bb0508",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
