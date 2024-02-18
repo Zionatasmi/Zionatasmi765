@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Moreno",
+  "age": 18,
+  "address": {
+    "street": "Ojueze Pass",
+    "city": "Seecise",
+    "state": "FL",
+    "zip": "13818"
+  },
+  "contact": {
+    "phone": "(468) 206-4067",
+    "servicePhone": "800422641"
+  },
+  "birthday": "1988-10-08T11:52:31.875Z",
+  "ip": "58.70.59.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu aj mectan bozon ab zaneke bospaca hepiozo valsije puiliuwe ijiroca pikalej. Zo cenefizil are edwin aru govkeok ni miatu wil atpu jo retwin newze. Foica atlo od ase bop muf bif cesol sadot socafde il ekoporo ma bi wuvuska. Sihado bisog apunoiso cutejut ab bodop fafwe ararov nav duabwet geuvoce rab.",
+    "bio": "Jif ne usizesuh ufetog luppi pa uwoje amoguhal guplo lop fo obu abucik uselen sicuh etlef. Wiz luak dami ruketib tiduhu sigohhiz jofra efofas januton ebbezsu hahilase gifkud reke. Hama od amzeida ipped viktawzoh fuonpih jed bepul wupzehot usi geragfav ofebisdi jo zomawat houwuzif."
+  },
+  "apiKey": "fd233bd319a5468bbaec752ec7e576b714e4a031ca91dfd0c88e2469d219c8b3",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
