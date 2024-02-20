@@ -1,0 +1,26 @@
+{
+  "name": "Flora Welch",
+  "age": 23,
+  "address": {
+    "street": "Bouz Manor",
+    "city": "Zofjentap",
+    "state": "WI",
+    "zip": "08096"
+  },
+  "contact": {
+    "phone": "(351) 222-6931",
+    "servicePhone": "800489669"
+  },
+  "birthday": "1976-08-22T11:26:53.315Z",
+  "ip": "248.201.103.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Kacsazif wozosvi bi zansobok amiothi ki kef sohejij zorotu uzeuzi folanfa violocun uhla rekamzuz alvuc bibjiur kiis rigbilfe. Le budcojiw iheocobu kajaunu wu mu rika totiha rizsud geipuaz ulwew eteat. Fekviak og em ez sogo ogire fi wabpej mew iloivru bimtumra mesjepsi esnivom ih ma fezowis lueziko. Hocfumel rod lalvet ozeud zuigo map ikoteuru ugrav uroagem me miljewob ulajisi ana ucuipmiv.",
+    "bio": "Ril ek ucfe inejfup pijuka ziztamwad kuzbewguf karimaj ke rodalamo vev nojecid. Cewvem dumzi bane jiddubu le hilazo vagegis fucwava ij pojan tit hednut puza vuprov. Du cikaja juvgumvik dawidwo wagzoda kahtuda nurifat jiejo vuluf jib bepmuj med kanbeh socofih va egehejno."
+  },
+  "apiKey": "fc223bead0b61b350afeef5ff221bd94e63a24842e1ddef2da25ed93c3f34e44",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
