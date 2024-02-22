@@ -1,0 +1,26 @@
+{
+  "name": "Joe Rios",
+  "age": 20,
+  "address": {
+    "street": "Nezan Path",
+    "city": "Rozobilit",
+    "state": "ND",
+    "zip": "60743"
+  },
+  "contact": {
+    "phone": "(606) 987-9661",
+    "servicePhone": "800588663"
+  },
+  "birthday": "1999-11-30T07:27:59.674Z",
+  "ip": "77.93.58.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Uw udarifiz cuk daiz oja cej ci piinval tufenpu amu muidofa beb. Pe wozu fup igsofmaw iwame he me hi bav besemi sicu guzme kup pituab ro. Gi ju fuja hojepose kuun oginetfoj pezgenbo waniwe nitus kaalozo nus tu uva hikno jibet afmi vuwem zehizla. Saffagih zeinef uctodto diaz be bogadro kehjov eha gumtup judabu up daw zos val.",
+    "bio": "Arjam necu edojadar zekpogmow dajubveh si ba pucva argipsur omakahvug la zipim zinum. Za vigace kepheic us nukizfoh java vonzis nemzo wezuji hupcovu luh cof kocij vemadha wodnut. Habev dusnebtaf pizruvvek ozocir ogikeza liwruz bu nezmucaz zusum mal ectu rigel dicmop."
+  },
+  "apiKey": "4657ba4ec29c7d5634bf13da0310ca3ca984f95e6bc81dc26468fbae1c5588de",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
