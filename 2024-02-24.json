@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Pratt",
+  "age": 51,
+  "address": {
+    "street": "Besoz Circle",
+    "city": "Ebopuna",
+    "state": "PA",
+    "zip": "51401"
+  },
+  "contact": {
+    "phone": "(268) 709-6016",
+    "servicePhone": "800612993"
+  },
+  "birthday": "1993-08-11T07:09:18.098Z",
+  "ip": "152.75.205.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Up cejo momfu ujimu bobmuf oz hen howfej uku za if rib admuod rubdug. Araaleje semol asewabu aviavi lewinud gov pufewiv utuke nagsose poz tovsaloh imnip pif ahavah bomececa az humo. Co cuc razir licam rel kuzi hugteca sinedami mo nafmaaz asi kowowzul katnis fidanpen itoodarav.",
+    "bio": "Poh tu baacavo ladle hedika sadef deno lobunro sezsi hihozeja rac akasugom. Sa jet lif dija vipge zeb uhmok ma co efuronhok otcozaz nurni em woghe caga wagkoh oz ohe. Nuzume si kevbearo haervam culug ezwajec digwokaci ata jeh tis arji suklohho nisles edo lo waras ef kuro."
+  },
+  "apiKey": "986199806129055b0bc265f7fa856c8e8e2d3780c75f2197c0de5cfc182bcc9e",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
