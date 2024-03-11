@@ -1,0 +1,26 @@
+{
+  "name": "Juan Moreno",
+  "age": 22,
+  "address": {
+    "street": "Keji Circle",
+    "city": "Olrejpo",
+    "state": "GA",
+    "zip": "44840"
+  },
+  "contact": {
+    "phone": "(281) 614-5655",
+    "servicePhone": "800856392"
+  },
+  "birthday": "1990-04-19T03:33:52.755Z",
+  "ip": "35.207.178.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Epeja bufne zudgubaw nom sorriva ha zenon vek lom zimizodas pacahfeh ri. Fufiuka fanno bul weipo le murilke po ta nu cupin gir kiudamud koj fadudu ma kukzijwag rezewcab. Oba uh haksapmok tedufbaw ca rihub wo niz nigdapbo ko imicaap nier la ciggekde odce razgafiw ise. Bobecet sel do mij da vipdu fecem cuw lekal na guvfiku unatebug.",
+    "bio": "Sogugug pomegbe ja lu gi ged ca dadpuj giturfun igogijaj fi coho iwjaw ihe wu lucoc etji. Dem dig godatol jitruome bokwujem havwin ijrub bit uduteddi aglug koltuv gic. Seuvilu nawwi hacdijdo iswi pipde femuta ug pogorega puhcesi wewmajob lena weedsid supi umfansat jakirmi ucoafsa daf bo. Hadur cizwaz osekapne moz iku ave zut na hefaogi vupwa hu tarawba sej. Ginwa zefid bival edhe hutze momoos guwzeuc he wuhdijif jizna joemuhe uj muweki nujho kivaw. Jopliw lipaga vocib du lotradep fisif pelju sur gorwev pemor toktelod bovlerza ciojazo."
+  },
+  "apiKey": "a68406bd4c4c3f2dbae97c1bfaa9d14b84a058e6deba7dac0f9a5a46f9a98d22",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
