@@ -1,0 +1,26 @@
+{
+  "name": "Alan Gutierrez",
+  "age": 36,
+  "address": {
+    "street": "Fohle Loop",
+    "city": "Codeoh",
+    "state": "IL",
+    "zip": "98319"
+  },
+  "contact": {
+    "phone": "(506) 665-2446",
+    "servicePhone": "800281957"
+  },
+  "birthday": "2001-01-24T13:35:52.903Z",
+  "ip": "216.31.72.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Me huef fubtin wo ci ora onusouc kiih ra ti ulgep cig iwusanel fe ni ig du nur. Alibo gomce zawvoma ru wanduca wi ewjan re ogioruve zezji odo wij. Ne cebvat meho sapacsa icek bodigetu kagovu zi bermohi ku ca duwonoh cekah zus rec wi ahusiufo tidwu.",
+    "bio": "Loep vod fedaclef turjo nudfebdot asokamca fe kuv ifekewfe akopo kezmuped zigic mer oniuzu co. Sus domekmi gu vop osamakef deruhu comibepe huob haz un it bus cef gi. Hamodda la weppoc jowvi vem su egti vazicre pitevoran me oj ijo uro lesav wec. Mopu ikiruke ripe ovonud jud zirfoj mowkeh tibupat su icegori mid keb tuh dohromoh nadodal guseora puwlivubi mebma. Ipfa lahose ek boju lev wil tapuhu edouw nagco cupiso rodanho uniumhur du woh kacwasij so rufupi. Fi obakafgen akigi avecu newjogil gilcac aditke kotefca fejto nitdajiro irigohviz ret hucof colceuz ga. Cib rorve lo bij oro te hojim ivobuten undok gimut waofojo jeb je nafhinzo sagerjir."
+  },
+  "apiKey": "a3acc57629b232d15077e25fa16a2ef88f2e99d0e4666bbd990c042eaec9c211",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
