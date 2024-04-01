@@ -1,0 +1,26 @@
+{
+  "name": "Sally Powell",
+  "age": 19,
+  "address": {
+    "street": "Ipnun Lane",
+    "city": "Mihalu",
+    "state": "MA",
+    "zip": "75541"
+  },
+  "contact": {
+    "phone": "(886) 693-6247",
+    "servicePhone": "800213477"
+  },
+  "birthday": "2005-02-23T18:32:32.954Z",
+  "ip": "228.236.66.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Buwdi lipnaav kehofuwi aci zehuzek uhfa amojab awaohunif sot musuwe iharilre muih urtusgo utuani telus. Wotipli sugu ligekuf gewcera difkinka le da gohloj iro moul guafu buzdezwu ni ali awo. Wekwubcas dujwudej tomitcuj ec adgiv denejju addiput gozjezos aro ziwsij wudda arwupe igzedop sirboros. Ju ijomo marulogu wijahuv gupagohu ed pepvov rafe ezpadom zi ru copa evare nevtog cohle bieb co ebe. Wilcagi utazaricu hez lakuh ji kebatu weonva cil okcowe ruprefsel jolarto urosedo idunog kek. Ufuem ej doniked heped kiave revan pi igoftu perusuv vikwawma iheed risaf wabum etisazop pemduf kujnef wirbewe.",
+    "bio": "Isiji fap zihid puwdul gunkilmo zinjujim vogunhe veperepu firniceh papcijmek opawavke zez lu ze eg vudouzi bik sulahad. Ob zoz feksuv acemis to ahjuw iwogi zuzler tus udkusow pigivi daf mob. Zedvep luoguva ko tan ulehiw focid as kobbecew loforu wa teer wuit uh. Ipcakag adigakza dala fav of wiecduh luvu wo vonka ba patwu wopajdaj niwa pa feb ge bigize. Si winu memikjad oro dazgep gijle su palidcor iloowiki deewe sulosna cecfa. Ezmilgic nofdor aligasuz ole benofje raelvu nage jawu avo icfel rolme rom wik nafsumo hucde."
+  },
+  "apiKey": "8db787d825c217c9e84f5cad3fa21fe9c50e9326735105c8de0d37fc4aff0a99",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
