@@ -1,0 +1,26 @@
+{
+  "name": "Polly Alvarado",
+  "age": 32,
+  "address": {
+    "street": "Gifu Park",
+    "city": "Wiehovi",
+    "state": "VT",
+    "zip": "95526"
+  },
+  "contact": {
+    "phone": "(786) 621-3906",
+    "servicePhone": "800864334"
+  },
+  "birthday": "2003-08-05T11:28:55.046Z",
+  "ip": "104.124.215.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Ichanze noj vikrun jovcahlij vo enodocac asedomu lor ogawer ko leahu peira fimupo cowo ajucuwa jof neket. Vi umsatig ti ezohom kipbum osawosun ecewi tulef zo meg affocori siuzu simisdaf ridup. Rahdius cusifuda afuwo avron cogupe lenubtu ra im nifimuba okisosol ufoamaje gelsumos.",
+    "bio": "Tengo porruz ziigu rigben pek jezsiszav iwuejpew ubdehec na vuucza digpej osifuj sedhu ciciva gikcez. Zi sadluf toija usuni gi decuc konidop fowemzef vijtal erizi rutoz ucicon gewep. Revatvuv laheeh jisew cas pifve hefu leutka miglev rowbuj ihmaowa doom notiuri vebep bopfiiza saajuza te sutivul noj."
+  },
+  "apiKey": "a2bd53e027c7c59f1a109a97327d5a7b723b423e576377dcec6459506b8f26c5",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
